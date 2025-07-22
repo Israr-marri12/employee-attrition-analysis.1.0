@@ -60,8 +60,8 @@ The dataset used is a standard HR employee attrition dataset (IBM HR Analytics E
 
 **Israr Marri**  
 - Upwork Data Analyst | Python | Machine Learning  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- Email: yourname@example.com *(optional)*
+- GitHub:  https://github.com/Israr-marri12
+- Email: Israr-marri12@gmail.com
 
 ---
 
